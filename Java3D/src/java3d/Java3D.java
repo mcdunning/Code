@@ -1,19 +1,18 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package java3d;
 
 /**
- *
- * @author Owner
+ * Main class to test Java 3D code
+ * @author Matt Dunning
  */
-public class Java3D {
+public class Java3D 
+{
 
     /**
+     * The main method and driver of all test code.
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public static void main(String[] args) 
+    {
+        new Hello3d();
     }
 }
