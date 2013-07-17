@@ -13,6 +13,7 @@ public class Java3D
      */
     public static void main(String[] args) 
     {
-        new Hello3d();
+        //new Hello3d();
+        new Ball();
     }
 }
